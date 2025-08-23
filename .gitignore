@@ -1,7 +1,7 @@
 # Arquivos sensíveis e temporários
 *.pem
 *.key
-client_secret_*.json
+client_secret*.json
 test_*oauth*.html
 test_*oauth*.py
 diagnose_oauth.sh
